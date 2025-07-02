@@ -1,2 +1,2 @@
 # Tuple-Indices
-Программа, в которой на основе текста, введенного пользователем, создается кортеж. Затем на основе этого кортежа создается новый кортеж. В новый кортеж включаются равностоящие элементы, начиная с первого (с нулевым индексом).
+A program that creates a tuple based on text entered by the user. Then, a new tuple is created based on this tuple. The new tuple includes equal elements, starting with the first (with index zero). For example, the new tuple includes elements that are 3 positions apart (elements with indices 0, 3, 6, 9, and so on). The distance between elements (increment by index) is entered by the user.
